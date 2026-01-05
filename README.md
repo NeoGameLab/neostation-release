@@ -38,6 +38,15 @@ NeoStation is currently in **Alpha version**. As an alpha release, you may encou
 - **For NeoSync Issues**: Contact support directly at support@neogamelab.com
 - **For Other Issues**: Join our Discord server and post in the #help channel
 
+## 💖 Support the Project
+
+If you enjoy using NeoStation and would like to support its development, you can do so through:
+
+- **Ko-fi**: [ko-fi.com/neostation](https://ko-fi.com/neostation)
+- **Patreon**: [patreon.com/cw/NeoStation](https://www.patreon.com/cw/NeoStation)
+
+Your support helps cover development costs and ensures the project continues to improve. Thank you!
+
 ---
 
-© NeoGameLab 2025 | 🚀 NeoStation
+© NeoGameLab 2026 | 🚀 NeoStation
